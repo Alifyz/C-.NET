@@ -6,17 +6,18 @@ namespace AdjacentsArrays
     {
         public static void Main(string[] args)
         {
-            int[] Array = { 1, -2, 4, 7, 6, 5, 9, 10 };
+            int[] Array = { -23, 4, -3, 8, -12 };
             Console.WriteLine(arrayPset(Array));
         }
 
 
         public static int arrayPset(int[] inputArray) {
+
             int result = 0;
 
-            for (int k = 0; k < inputArray.Length; k++) {
+            for (int k = 1; k < inputArray.Length; k++) {
 
-                if(inputArray[k] * inputArray[k+1] > result) {
+                if(inputArray[k] * inputArray[k-1] > result) {
                     result = inputArray[k] * inputArray[k + 1];
                 }
 
