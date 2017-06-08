@@ -1,0 +1,5 @@
+/Users/alifyz/Documents/Workspace/CodeFlights/adjacentElementsProduct/AdjacentsArrays/obj/x86/Debug/AdjacentsArrays.csproj.CoreCompileInputs.cache
+/Users/alifyz/Documents/Workspace/CodeFlights/adjacentElementsProduct/AdjacentsArrays/bin/Debug/AdjacentsArrays.exe
+/Users/alifyz/Documents/Workspace/CodeFlights/adjacentElementsProduct/AdjacentsArrays/bin/Debug/AdjacentsArrays.pdb
+/Users/alifyz/Documents/Workspace/CodeFlights/adjacentElementsProduct/AdjacentsArrays/obj/x86/Debug/AdjacentsArrays.exe
+/Users/alifyz/Documents/Workspace/CodeFlights/adjacentElementsProduct/AdjacentsArrays/obj/x86/Debug/AdjacentsArrays.pdb
