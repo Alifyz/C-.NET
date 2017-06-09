@@ -8,6 +8,7 @@ namespace AdjacentsArrays
         {
             int[] Array = { -23, 4, -3, 8, -12 };
             Console.WriteLine(arrayPset(Array));
+            Console.ReadLine();
         }
 
 
