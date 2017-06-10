@@ -6,6 +6,8 @@ namespace AdjacentsArrays
     {
         public static void Main(string[] args)
         {
+            //Adjacents Arrays PSet
+            //Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.
             int[] Array = { -23, 4, -3, 8, -12 };
             Console.WriteLine(arrayPset(Array));
             Console.ReadLine();
